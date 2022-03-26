@@ -1,0 +1,3 @@
+
+class GeoPoint:
+    pass
