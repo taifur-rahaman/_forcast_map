@@ -2,4 +2,4 @@
 [comment]: <> (use of "text-align" from css3 is still being used)
 <h1 style="text-align: center">Forcast Map</h1>
 
-A simple website with the world map that shows the forcast of the selected place.
+A simple website with the world map that shows the forcast of the selected place using Python.
